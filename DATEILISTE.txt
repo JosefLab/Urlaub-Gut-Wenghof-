@@ -1,0 +1,43 @@
+TAG 1 – Werfenweng, 17.09.2026
+
+34 Fotos + 2 Videos
+
+Fotos sind weboptimiert (max. 1800 px, JPEG Qualität 82).
+Reihenfolge entspricht der zeitlichen Reihenfolge der Originaldateien.
+
+tag1_01.jpg <- 1000207234.jpg
+tag1_02.jpg <- 1000207489.jpg
+tag1_03.jpg <- 1000207504.jpg
+tag1_04.jpg <- 1000207506.jpg
+tag1_05.jpg <- 1000207721.jpg
+tag1_06.jpg <- 1000207728.jpg
+tag1_07.jpg <- 1000207735.jpg
+tag1_08.jpg <- 1000207736.jpg
+tag1_09.jpg <- 1000207768.jpg
+tag1_10.jpg <- 1000207798.jpg
+tag1_11.jpg <- 1000207804.jpg
+tag1_12.jpg <- 1000207883.jpg
+tag1_13.jpg <- 1000207912.jpg
+tag1_14.jpg <- 1000207915.jpg
+tag1_15.jpg <- 1000207955.jpg
+tag1_16.jpg <- 1000207980.jpg
+tag1_17.jpg <- 1000207997.jpg
+tag1_18.jpg <- 1000208023.jpg
+tag1_19.jpg <- 1000208037.jpg
+tag1_20.jpg <- 1000208038.jpg
+tag1_21.jpg <- 1000208043.jpg
+tag1_22.jpg <- 1000208048.jpg
+tag1_23.jpg <- 1000208076.jpg
+tag1_24.jpg <- 1000208077.jpg
+tag1_25.jpg <- 1000208092.jpg
+tag1_26.jpg <- 1000208100.jpg
+tag1_27.jpg <- 1000208102.jpg
+tag1_28.jpg <- 1000208109.jpg
+tag1_29.jpg <- 1000208143.jpg
+tag1_30.jpg <- 1000208175.jpg
+tag1_31.jpg <- 1000208276.jpg
+tag1_32.jpg <- 1000208282.jpg
+tag1_33.jpg <- 1000208285.jpg
+tag1_34.jpg <- 1000208288.jpg
+tag1_video_01.mp4 <- 1000208159.mp4
+tag1_video_02.mp4 <- 1000208235.mp4
